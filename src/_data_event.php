@@ -1,7 +1,7 @@
 <?
 // 테스트
 include $_SERVER['DOCUMENT_ROOT']."/include/include_common.php";
-
+aaaaaaaaaaaaaaaa
 sssssssssssa
 @extract($_dGET); 
 @extract($_POST);
